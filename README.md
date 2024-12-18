@@ -1,6 +1,4 @@
 # Spider-Verse
-
-![Screenshot_1](https://github.com/JesskaBasilio/spider-man-multiverses/assets/152433983/a2d19a05-1862-45b8-abe8-d08401b60e3c)
 ![](https://images.squarespace-cdn.com/content/v1/5bc7a672d745626e1e665610/1607467332836-LTJATOFWIOG0GZMEC9NZ/IMG_6109.jpeg)
 
 
