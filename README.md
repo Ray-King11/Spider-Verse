@@ -10,6 +10,16 @@
 <li>Andrew Garfield</li>
 </ul>
 
+<p>Um projeto inspirado no universo multiversal do Homem-Aranha, reunindo diferentes versões do herói em uma única aplicação. Este repositório pode conter:
+<br>
+<ul>
+<li>  🌐 Visualizações interativas dos personagens do Spider-Verse </li> 
+<li>  🧠 Algoritmos para simular interações entre diferentes aranhas </li> 
+<li>  🎨 Assets visuais, animações ou modelos baseados em quadrinhos e filmes </li> 
+<li>  🕹️ Protótipos de jogos ou experiências web imersivas </li> 
+</ul>
+    
+<p>Ideal para fãs da Marvel, desenvolvedores criativos e entusiastas de universos paralelos. Entre no multiverso e explore as infinitas possibilidades</p>
 
 ## 💻 Tecnologias
 - HTML
